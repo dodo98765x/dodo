@@ -1,0 +1,67 @@
+Script started on 2019-06-12 17:17:51+08:00 [TERM="xterm" TTY="/dev/pty0" COLUMNS="80" LINES="24"]
+]0;~
+[32mdodo@MSI [33m~[0m
+$ whi[Ko [Kami;  pwd[1Ppwd
+dodo
+/home/dodo
+]0;~
+[32mdodo@MSI [33m~[0m
+$ git clone -l
+fatal: You must specify a repository to clone.
+
+usage: git clone [<options>] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (implies bare)
+    -l, --local           to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    -s, --shared          setup as shared repository
+    --recurse-submodules[=<pathspec>]
+                          initialize submodules in the clone
+    -j, --jobs <n>        number of submodules cloned in parallel
+    --template <template-directory>
+                          directory from which templates will be used
+    --reference <repo>    reference repository
+    --reference-if-able <repo>
+                          reference repository
+    --dissociate          use --reference only while cloning
+    -o, --origin <name>   use <name> instead of 'origin' to track upstream
+    -b, --branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    -u, --upload-pack <path>
+                          path to git-upload-pack on the remote
+    --depth <depth>       create a shallow clone of that depth
+    --shallow-since <time>
+                          create a shallow clone since a specific time
+    --shallow-exclude <revision>
+                          deepen history of shallow clone, excluding rev
+    --single-branch       clone only one branch, HEAD or --branch
+    --no-tags             don't clone any tags, and make later fetches not to follow them
+    --shallow-submodules  any cloned submodules will be shallow
+    --separate-git-dir <gitdir>
+                          separate git dir from working tree
+    -c, --config <key=value>
+                          set config inside the new repository
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+    --filter <args>       object filtering
+
+]0;~
+[32mdodo@MSI [33m~[0m
+$ git clone -l[1P-l -l[1P -l[1P -l[1P -l[1P -lo -ln -lf -li -lg -l
+[?1h=user.email=dodo98765x@gmail.com[m
+user.name=dodo98765x[m
+[K[?1l>]0;~
+[32mdodo@MSI [33m~[0m
+$ git clone https://githn[Kubu[K[Kb//g[K[K[K.com/dodo98765x/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32mdodo@MSI [33m~[0m
+$ exit
+
+Script done on 2019-06-12 17:19:02+08:00 [COMMAND_EXIT_CODE="0"]
