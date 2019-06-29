@@ -1,1 +1,1 @@
-½sÄ¶lab1.cpp¨Ã°õ¦æ
+compile and execute lab1.cpp
